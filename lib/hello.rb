@@ -7,3 +7,4 @@ def hello_t(array)
 end
 
 # call your method here!
+puts hello_t
