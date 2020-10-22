@@ -6,4 +6,5 @@ def hello_t(array)
     end
 end
 
+def hello_t(names){ |name| puts name}
 # call your method here!
